@@ -1,4 +1,3 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Don Omondi Onyango</h1>
 <h3 align="center">A passionate python Backed developer</h3>
@@ -11,7 +10,7 @@
 
 - 🔭 I’m currently working on **socila media clone**
 
-- 💬 Ask me about **Django python postgres**
+- 💬 Ask me about **Django python postgreSQL**
 
 - 📫 How to reach me **info@mocky.co.ke**
 
