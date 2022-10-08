@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onyangodonomondi" alt="onyangodonomondi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tkomondi" target="blank"><img src="https://img.shields.io/twitter/follow/tkomondi?logo=twitter&style=for-the-badge" alt="tkomondi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tk_omondi" target="blank"><img src="https://img.shields.io/twitter/follow/tkomondi?logo=twitter&style=for-the-badge" alt="tkomondi" /></a> </p>
 
 - 🔭 I’m currently working on **socila media clone**
 
