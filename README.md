@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Don Omondi Onyango</h1>
 <h3 align="center">A passionate python Backed developer</h3>
+<a href="https://app.daily.dev/tkomondi"><img src="https://api.daily.dev/devcards/56ed558677de4c9b943dbfe44e8c0e96.png?r=nvs" width="400" alt="Don Omondi's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onyangodonomondi&label=Profile%20views&color=0e75b6&style=flat" alt="onyangodonomondi" /> </p>
 
